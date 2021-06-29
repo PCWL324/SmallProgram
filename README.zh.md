@@ -1,8 +1,10 @@
 
-## 注意：当前仓库继承自即将被废弃的涂鸦Github仓库：xxxxxx，请使用当前 Github 仓库进行涂鸦 SDK相关开发。更换远程Github仓库URL的教程，可以参考：https://github.com/TuyaInc/tuya-weapp-demo
+## 注意：这个项目是使用涂鸦SDK开发的，它可以让您快速开发连接和控制许多设备的智能场景的品牌应用程序。有关更多信息，请访问涂鸦开发者网站。
+
+当前仓库继承自即将被废弃的涂鸦Github仓库：xxxxxx，请使用当前 Github 仓库进行涂鸦 SDK相关开发。更换远程Github仓库URL的教程，可以参考：https://github.com/TuyaInc/tuya-weapp-demo
 
 ## 概述
-这个项目是使用涂鸦SDK开发的，它可以让您快速开发连接和控制许多设备的智能场景的品牌应用程序。有关更多信息，请访问涂鸦开发者网站。
+
 这个一个简易版快速接入[涂鸦的小程序 SDK](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/overview/applet-ecology?id=K9ptacgp94o5d)，[配网插件](https://developer.tuya.com/cn/docs/iot/app-development/mini-programs/tuya-applet-with-web-plugin/distribution-network-plugin?id=K9lq218xn0wn8) 和 MQTT 的连接的Demo，目前趋于稳定。后续还会有新功能的更新。
 
 ## 体验
